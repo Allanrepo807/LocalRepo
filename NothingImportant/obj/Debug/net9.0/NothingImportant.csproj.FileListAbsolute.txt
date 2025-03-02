@@ -1,0 +1,14 @@
+E:\GIT Practice\LocalRepo\NothingImportant\bin\Debug\net9.0\NothingImportant.exe
+E:\GIT Practice\LocalRepo\NothingImportant\bin\Debug\net9.0\NothingImportant.deps.json
+E:\GIT Practice\LocalRepo\NothingImportant\bin\Debug\net9.0\NothingImportant.runtimeconfig.json
+E:\GIT Practice\LocalRepo\NothingImportant\bin\Debug\net9.0\NothingImportant.dll
+E:\GIT Practice\LocalRepo\NothingImportant\bin\Debug\net9.0\NothingImportant.pdb
+E:\GIT Practice\LocalRepo\NothingImportant\obj\Debug\net9.0\NothingImportant.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT Practice\LocalRepo\NothingImportant\obj\Debug\net9.0\NothingImportant.AssemblyInfoInputs.cache
+E:\GIT Practice\LocalRepo\NothingImportant\obj\Debug\net9.0\NothingImportant.AssemblyInfo.cs
+E:\GIT Practice\LocalRepo\NothingImportant\obj\Debug\net9.0\NothingImportant.csproj.CoreCompileInputs.cache
+E:\GIT Practice\LocalRepo\NothingImportant\obj\Debug\net9.0\NothingImportant.dll
+E:\GIT Practice\LocalRepo\NothingImportant\obj\Debug\net9.0\refint\NothingImportant.dll
+E:\GIT Practice\LocalRepo\NothingImportant\obj\Debug\net9.0\NothingImportant.pdb
+E:\GIT Practice\LocalRepo\NothingImportant\obj\Debug\net9.0\NothingImportant.genruntimeconfig.cache
+E:\GIT Practice\LocalRepo\NothingImportant\obj\Debug\net9.0\ref\NothingImportant.dll
